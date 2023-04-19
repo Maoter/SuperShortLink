@@ -1,7 +1,6 @@
 
 [![GitHub license](https://img.shields.io/github/license/dotnetcore/EasyCaching.svg)](https://github.com/dotnetcore/EasyCaching/blob/master/LICENSE)
 
-----------
 
 ## Nuget包
 
